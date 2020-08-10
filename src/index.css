@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family:'Princess Sofia', cursive;
+  background: linear-gradient(
+      to left,
+      rgb(43, 245, 211),
+      rgba(65, 228, 65, 0.336));
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

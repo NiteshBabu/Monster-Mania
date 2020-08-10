@@ -1,0 +1,12 @@
+.searchbox{
+  margin: 40px 45% ;
+}
+
+input[type=search]{
+  border:none;
+  outline:none;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid lime;
+  background-color: rgba(153, 205, 50, 0.479);
+}

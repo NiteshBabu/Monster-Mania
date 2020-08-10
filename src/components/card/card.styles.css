@@ -1,0 +1,27 @@
+.card{
+  background-color:yellowgreen;
+  margin: 5px 10px;
+  padding: 10px;
+  text-align: center;
+  font-family: sans-serif;
+  border :none;
+  border-radius: 30px;
+  opacity: .4;
+}
+
+.card:hover{
+  opacity: 1;
+  transform: scale(1.03);
+  transition: 500ms;
+}
+
+img{
+  margin-bottom: 10px;
+}
+
+.detail{
+  padding: 5px;
+  border: 2px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 1px 1px 4px #ddd;
+}
